@@ -9,3 +9,5 @@ This repository contains my assignments
 [assignment 4](http://localhost:8888/notebooks/Downloads/assignment4%20(1).ipynb)
 
 [Graded_assignment1](https://github.com/esmeevoulon/assignments/blob/master/Graded_assignment1.ipynb)
+
+[Graded_assignment2](https://github.com/esmeevoulon/assignments/blob/master/Graded_assignment_2.ipynb)
