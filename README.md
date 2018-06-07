@@ -11,3 +11,7 @@ This repository contains my assignments
 [Graded_assignment1](https://github.com/esmeevoulon/assignments/blob/master/Graded_assignment1.ipynb)
 
 [Graded_assignment2](https://github.com/esmeevoulon/assignments/blob/master/Graded_assignment_2.ipynb)
+
+[exam_june_7_2018.ipynb](https://github.com/esmeevoulon/assignments/blob/master/exam_june_7_2018.ipynb)
+
+[Exam_student.ipynb ](https://github.com/esmeevoulon/assignments/blob/master/Exam_student.ipynb)
